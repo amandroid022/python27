@@ -1,0 +1,21 @@
+This isa sample high resolution PDF.
+
+- Images that print to the edge are required to
+bleed 1/8 past the trim edge
+War mete should be turned,on and offset beyond ah deed
+Photos should be 300 dpi
+- Lineart/Bitmap images should be 900 dpi or higher 
+- All fonts should be embedded (do not subset fonts)
+- All images.should be cmyiior 4/colorprinting
+
+hop
+
+Nlelcias
+
+Please contact HBP if you have ~~. 
+questions about creating pdfs.
+
+a
+es
+
+HBP_Todd_Keffer.indd 1 10/22/07 12:51:04 PM
