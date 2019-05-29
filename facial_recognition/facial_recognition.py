@@ -6,7 +6,8 @@ import face_recognition
 images = os.listdir('images')
 
 # load your image
-image_to_be_matched = face_recognition.load_image_file('my_image.jpg')
+# image_to_be_matched = face_recognition.load_image_file('my_image.jpg')
+image_to_be_matched = face_recognition.load_image_file('my_image2.jpg')
 
 # encoded the loaded image into a feature vector
 image_to_be_matched_encoded = face_recognition.face_encodings(
